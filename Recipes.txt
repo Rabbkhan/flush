@@ -6,5 +6,7 @@ kheer
 paner
 chicken fry
 
+beans
+pizza
 
 Thank you :)
